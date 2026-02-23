@@ -1,0 +1,4 @@
+/* CSS personnalisé au besoin */
+body {
+    transition: all 0.3s ease;
+}
